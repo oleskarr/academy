@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/denim.png);
+}
+div{
+    overflow-y: scroll;
+    margin-left: 300px;
+   
+    width: 800px;
+   
+}
+.fixed{
+    position: fixed;
+    left: 20px;
+    top: 200px;
+  
+    padding: 15px 15px 15px 15px;
+    a{
+        text-decoration: none;
+        color: azure;
+    }
+  button{
+    background-color: rgb(58, 53, 53);
+  }
+
+}

@@ -1,0 +1,31 @@
+.container {
+    width: 375px;
+    margin: 60px auto;
+    padding: 30px;
+    background-color: #4DD0E2;
+    display: flex;
+ }
+ 
+ .block {
+    
+     background-color: white;
+     margin-right: 5px;
+     height: 130px;
+     box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2)
+ }
+ .block1 {
+   width: 15px;
+ }
+ .block2 {
+   width: 30px;
+ }
+ .block3 {
+   width: 45px;
+ }
+ .block4 {
+   width: 80px;
+ }
+ .block5 {
+   width: 165px;
+   
+ }

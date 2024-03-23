@@ -1,0 +1,25 @@
+.box{
+    background-color: rgb(51, 50, 50);
+    width: max-content;
+    padding: 5px 5px 5px 5px;
+}
+.parent{
+    display: flex;
+
+}
+.block{
+    width:150px;
+    height: 150px;
+    text-align: center;
+    margin: 5px 5px 5px 5px ;
+    background-color: #fff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ 
+ 
+
+}
+p{
+    display: block;
+}

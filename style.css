@@ -3,11 +3,13 @@
     margin:0;
     text-decoration: none;
     list-style: none;
+    
 
 }
 html,body{
     width: 100%;
     height:100%;
+
 }
 main{
 flex: auto;
@@ -18,6 +20,8 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+ 
+    padding-top: 10px;
    
    
 }
@@ -43,10 +47,10 @@ nav a{
 
 }
 nav li, .up{
-    background-color: wheat;
+    border: wheat 2px solid;
     padding: 5px;
     border-radius: 3px;
-    width: 65px;
+    width: 45px;
     
 
 }
@@ -71,7 +75,7 @@ nav li a:hover{
 .part_one li a:hover{
     filter: brightness(1);
 }
-.part_one{
+.part_one {
     background-color: wheat;
     padding: 10px;
     border-radius: 10px;
@@ -80,7 +84,7 @@ nav li a:hover{
     gap: 20px;
 
 }
-    .part_one ul{
+    .homework_list{
         display: flex;
         flex-wrap: wrap;
         gap: 20px;
@@ -104,14 +108,26 @@ nav li a:hover{
     flex-direction: column;
     padding: 10px;
     }
-    .part_tree {
-        background-color: wheat;
-        border-radius: 10px;
-        display: flex;
-    flex-direction: column;
-    padding: 10px;
+    .part_two li{
+        background-color: brown;
+        padding: 5px;
+        border-radius: 5px;
+        width: 75px;
+        
+    a{ 
+        color: wheat;
+        } 
     }
-    .part_four {
+    .part_two:hover li a{
+        filter: brightness(.4);
+    }
+    .part_two li a:hover{
+        filter: brightness(1);
+    }
+    
+
+   
+    .part_four ,.part_three{
        
         background-color: wheat;
         border-radius: 10px;

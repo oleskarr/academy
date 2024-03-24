@@ -1,0 +1,15 @@
+.box{
+    background-color: skyblue;
+    border: 1px rgb(37, 37, 105) solid;
+    width: fit-content;
+    height: fit-content;
+    p{
+        color: green;
+    }
+    h1{
+        color: blue;
+    }
+}
+.bttn{
+    content: url(https://unpkg.com/css.gg@2.0.0/icons/css/close-o.css);
+}

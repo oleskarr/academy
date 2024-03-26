@@ -1,0 +1,15 @@
+body{
+    background-color: gray;
+}
+p{
+    width: 300px;
+    height: 70px;
+    background-color: green;
+    border-radius: 10px;
+    box-shadow: -15px 15px 0 0 #550c0c;
+    text-align: center;
+    margin: 15%;
+    padding-top: 35px;
+    word-spacing: 20px;
+    font-size: 20px;
+}

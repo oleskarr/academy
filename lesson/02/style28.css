@@ -3,13 +3,28 @@
     border: 1px rgb(37, 37, 105) solid;
     width: fit-content;
     height: fit-content;
+    
+}
+.block{
     p{
         color: green;
     }
     h1{
         color: blue;
     }
+
 }
-.bttn{
-    content: url(https://unpkg.com/css.gg@2.0.0/icons/css/close-o.css);
+.block::after{
+   content: "" ;
+}
+.block::before{
+content: url(https://avatars.mds.yandex.net/i?id=26eef3948c699b5b1000dc9e1bb2f0683196a1fd-12441665-images-thumbs&n=13);
+   width: 100px;
+   display: inline-block;
+    
+}
+input:checked{
+    .box{
+        display: none;
+    }
 }

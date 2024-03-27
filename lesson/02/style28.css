@@ -6,25 +6,42 @@
     
 }
 .block{
+  
     p{
         color: green;
     }
-    h1{
-        color: blue;
+    h3{
+        color: rgb(17, 17, 201);
     }
+   
 
 }
-.block::after{
-   content: "" ;
+p{
+    margin-top: -10px;
 }
-.block::before{
-content: url(https://avatars.mds.yandex.net/i?id=26eef3948c699b5b1000dc9e1bb2f0683196a1fd-12441665-images-thumbs&n=13);
-   width: 100px;
-   display: inline-block;
+input{
+    display: none;
+}
+.box{
+    display: block;
+    padding:5px;
     
 }
-input:checked{
-    .box{
-        display: none;
-    }
+#bttn:checked~.box{
+   
+ display: none;
+    
+}
+
+label{
+position: absolute;
+margin-left: 620px;
+
+}
+h3::before{
+  content: "♥";  
+  margin-right: 20px;
+
+
+ 
 }

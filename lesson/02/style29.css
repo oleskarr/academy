@@ -5,7 +5,7 @@ ul{
 .list{
     display: none;
 }
-#check:checked~.list{
+label:checked~.list{
     display: block;
 
 }

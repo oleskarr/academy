@@ -1,0 +1,32 @@
+
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .container {
+    width: 245px;
+  
+    background-color: #509191;
+    border-radius: 5px;
+    padding: 20px;
+ }
+ blockquote {
+    margin: 0 0 30px 0;
+    font-style: italic;
+    line-height: 0.9;
+    font-size: 27px;
+ }
+ cite {
+    font-style: normal;
+    color: #15312f;
+    font-family: sans;
+ }
+ a{
+    margin-top: 50px;
+
+ }

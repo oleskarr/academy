@@ -1,0 +1,25 @@
+body {
+	background-image: url("https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png") ;
+	}
+ div.block {
+  height: 400px;
+  width: 600px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -200px 0 0 -200px;
+  padding: 80px;
+  box-sizing: border-box;
+  text-align: justify;
+  font-size: 110%;
+ }
+h2 {
+	margin-left: 40px;
+	color: green;
+	line-height: 0.2em;
+}
+div.block-sait {
+	line-height: 0em;
+	font-size: 80%;
+	margin-left: 170px;
+}

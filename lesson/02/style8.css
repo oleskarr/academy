@@ -1,0 +1,14 @@
+body {
+    background-color: #b2b1ce;
+  }
+  .block {
+    width: 400px;
+    padding: 15px;
+    margin: 20px 0 0 20px;
+    background-color: #9b89aa;
+    border: 2px solid #18012b;
+    text-align: justify;
+    text-indent: 20px;
+    color: #9a00b9;
+  }
+  

@@ -1,0 +1,17 @@
+.conteiner {
+	margin: 0 auto 0 auto;
+	background:  #F5F5F5;
+	height: 250px;
+	width: 450px;
+	padding: 10px;
+	text-align: right;
+}
+.color-red {
+	color:  #B22222;
+	font-family: "Times New Roman", serif;
+	font-size: 17px;
+}
+p {
+	font-family: arial, sans-serif;
+	font-size: 15px;
+}

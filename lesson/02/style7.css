@@ -1,0 +1,13 @@
+body {
+    background-color: bisque;
+}
+.line {
+    margin: 60px auto;
+    text-indent: 20px;
+    border-left: 3px dotted blue;
+    padding-left: 20px;
+    width: 280px;
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: 18px;
+}

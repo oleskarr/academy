@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png");
+}
+.wrapper {  
+  border: 2px solid black;
+  margin: 30px auto;
+  height: 100px;
+  width: 200px;
+}

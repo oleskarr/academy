@@ -1,0 +1,47 @@
+div {
+    font-family: sans-serif;
+    font-size: 14px;
+    color: grey;
+    width: 490px;
+    margin: 60px auto;
+}
+h3 {
+    color: black;
+}
+.box {
+    background-color: whitesmoke;
+    border-radius: 3px;
+    padding: 2px;
+}
+.box_1 {
+    white-space: nowrap;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    padding: 2px;
+    overflow-x: scroll;
+}
+.right{
+    color:black;
+    font-weight: bold;
+    text-align: right;
+    margin-top: -15px;
+}
+.black {
+    color:black;
+}
+.red {
+    color: indianred;
+}
+.seagreen {
+    color:seagreen;
+}
+.blue {
+    color: blue;
+}
+.dark_blue{
+    color: darkblue;
+}
+i {
+    letter-spacing: 1px;
+    color: silver;
+}
